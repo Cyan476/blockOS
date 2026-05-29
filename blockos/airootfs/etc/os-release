@@ -1,0 +1,11 @@
+NAME="blockOS"
+PRETTY_NAME="BlockOS Tower"
+ID=blockOS
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://cyan476.github.io/blockOS/"
+DOCUMENTATION_URL="https://cyan476.github.io/blockOS/get-started.html"
+SUPPORT_URL="https://cyan476.github.io/blockOS/support.html"
+BUG_REPORT_URL="https://cyan476.github.io/blockOS/bug-report.html"
+PRIVACY_POLICY_URL="https://cyan476.github.io/blockOS/privacy.html"
+LOGO=blockos-logo
